@@ -1,3 +1,0 @@
-E:/MyProjects/Student Management System/cmake-build-debug/CMakeFiles/Student_Management_System.dir
-E:/MyProjects/Student Management System/cmake-build-debug/CMakeFiles/edit_cache.dir
-E:/MyProjects/Student Management System/cmake-build-debug/CMakeFiles/rebuild_cache.dir
