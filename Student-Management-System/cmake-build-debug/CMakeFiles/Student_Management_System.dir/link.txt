@@ -1,0 +1,3 @@
+"D:\Apps\JetBrains\CLion 2022.2.4\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Student_Management_System.dir/objects.a
+D:\Apps\msys64\mingw64\bin\ar.exe qc CMakeFiles\Student_Management_System.dir/objects.a @CMakeFiles\Student_Management_System.dir\objects1.rsp
+D:\Apps\msys64\mingw64\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\Student_Management_System.dir/objects.a -Wl,--no-whole-archive -o Student_Management_System.exe -Wl,--out-implib,libStudent_Management_System.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Student_Management_System.dir\linklibs.rsp
